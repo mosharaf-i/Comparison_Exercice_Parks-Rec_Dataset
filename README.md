@@ -1,6 +1,6 @@
 # Comparison Excercise
 #### Parks and Recreation Dataset, City of Toronto
-
+**For checking the final analytics and GIS results in interactive maps, please see [Interactive Maps folder](./Interactive_Maps/)**
  
  ## 1.	Introduction
 
@@ -57,7 +57,7 @@ mapping and evaluation. The results and discussion are presented in the followin
 ## 3.	Results and Discussion
 
 This section presents and discusses the results of the analysis. After mapping both weekly and total program hour percentages across the city, it was found that the two metrics were similar. 
-Therefore, only the total program hour percentages are discussed here. Also, to facilitate the comparing of findings, interactive maps for each category were created using folium library, and maps are included in the folder, which included the weekly hours comparison as well (Folder).  
+Therefore, only the total program hour percentages are discussed here. Also, to facilitate the comparing of findings, interactive maps for each category were created using folium library, and maps are included in the [Interactive Maps folder](./Interactive_Maps/), which included the weekly hours comparison as well.  
 
 ### 3.1	Demographic: Under 14 years of age
 
@@ -170,8 +170,7 @@ Therefore, it is recommended that participation data and survey results be inclu
 sum of age subgroups (85–89, 90–94, 95–99, and 100+). Although further investigation was beyond the time constraints of this project, a more in-depth examination would improve data quality
 and the resulting analysis. 
 5.	Future Work:
-The City of Toronto maintains a wide range of datasets that could support further analysis of Parks and Recreation programming. Several areas of focus could be explored in greater depth, such as including:
-
+The City of Toronto maintains a wide range of datasets that could support further analysis of Parks and Recreation programming. Several areas of focus could be explored in greater depth, such as including:  
  • Emerging Neighbourhoods and neighbourhood improvement areas;  
  • Household income and its effect on participation rates;  
  • Additional demographic and geographic breakdowns to tailor programming more equitably.
