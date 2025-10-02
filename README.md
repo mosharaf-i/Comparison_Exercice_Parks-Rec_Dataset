@@ -6,9 +6,9 @@
 
 The City of Toronto maintains significant datasets of registered and drop-in programs offered by Parks and Recreation throughout the city.  
 As part of this exercise, I gathered available open data related to Parks and Recreation programs, along with geospatial and neighbourhood profile data, 
-to perform an analysis and present a comparison of population distribution and programs offered based on my findings.  
-The datasets, demographic groups, and methods of analysis considered are described in Section 2. Results of my study is then discussed in Section 3. The conclusion is then presented in Section 5, 
-and finally, Section 6 outlines limitations and future work.
+to perform an analysis and present a comparison of population and programs distribution offered, based on my findings.  
+The datasets, demographic groups, and methods of analysis considered are described in Section 2. Results of my study is then discussed in Section 3. The conclusion is then presented in Section 4, 
+and finally, Section 5 outlines limitations and future work.
 
 
   
@@ -25,11 +25,10 @@ I selected programs designed for young children and seniors for further investig
 
 This is based on the observation that children and seniors tend to participate more in various programs at parks and community centres, as they generally have more free time than other age groups. 
 They also benefit significantly from social interaction with peers in their community. 
-As such, the analysis focused on understanding the distribution and percentage of hours dedicated to these two age groups at community recreation centres in Toronto.
-(
+As such, the analysis focused on understanding the distribution and percentage of hours dedicated to these two age groups at community recreation centres in Toronto.  
 The first age group was selected based on the Government of Ontario's employment regulations, which state that the minimum age to work in any environment is 14 years [(Link)]( https://www.ontario.ca/page/minimum-age-work).
 Additionally, the highest minimum age requirement in Parks and Recreation programs was found to be 60 years and over. Therefore, I chose programs with a maximum age of 14 and a minimum age of 60 for further study.  
-In this process, however, I noted that this filtering excludes some other programs that allow the possibility of this age range for participate, for example programs with no age limitation. This limitation, along
+In this process, however, it was noted that this filtering excludes some other programs that allow the possibility of this age range for participate, for example programs with no age limitation. This limitation, along
 with others, is further discussed in Section 5.  
 To understand how many programs were offered to these demographics, weekly and total program hours were calculated using Python. For each Program Category and Location ID,
 weekly and total hours were computed. Programs that met the age restrictions were selected, and their weekly and total hours were divided by the overall hours in each category.
@@ -57,7 +56,7 @@ mapping and evaluation. The results and discussion are presented in the followin
 ## 3.	Results and Discussion
 
 This section presents and discusses the results of the analysis. After mapping both weekly and total program hour percentages across the city, it was found that the two metrics were similar. 
-Therefore, only the total program hour percentages are discussed here. Also, to facilitate the comparing of findings, interactive maps for each category were created using folium library, and maps are included in the [Interactive Maps folder](./Interactive_Maps/), which included the weekly hours comparison as well.  
+Therefore, only the total program hour percentages are discussed here. Also, to facilitate the comparing of findings, interactive maps for each category were created using folium library, and maps are included in the [Interactive Maps folder](./Interactive_Maps/). These maps also include the average weekly hours for comparison.  
 
 ### 3.1	Demographic: Under 14 years of age
 
@@ -150,7 +149,7 @@ for expansion of all four categories programming targeted at older adults as wel
 
 ## 4.	Conclusion
 
-This study was conducted as part of the assessment assignment for the Parks and Recreation team, with the goal of analysing available open datasets to understand and propose 
+This study was conducted as part of an excercise with the Parks and Recreation dataset, with the goal of analysing available open datasets to examine and propose 
 improvements to programming across the City of Toronto. To achieve this, programs for two age demographics of under 14 and over 60 were selected, and the average percentages of 
 program hours dedicated to these groups were calculated. The population distribution of these age groups across the city was also analysed and compared with program data across 
 62 Toronto neighbourhoods. Neighbourhoods with high concentrations of children and seniors were further examined in relation to the seven program categories. Areas with lower 
