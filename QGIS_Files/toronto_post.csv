@@ -1,0 +1,76 @@
+postal_code,country_code,place_name,state_name,state_code,county_name,county_code,community_name,community_code,latitude,longitude,accuracy
+M3A,CA,North York (York Heights / Victoria Village / Parkway East),Ontario,ON,North York ,,,,43.7545,-79.33,1.0
+M4E,CA,East Toronto (The Beaches),Ontario,ON,Toronto,8133394.0,,,43.6784,-79.2941,6.0
+M6P,CA,West Toronto (High Park / The Junction South),Ontario,ON,Toronto,8133394.0,,,43.6605,-79.4633,6.0
+M9N,CA,Weston,Ontario,ON,,,,,43.7068,-79.517,6.0
+M4N,CA,Central Toronto (Lawrence Park East),Ontario,ON,Toronto,8133394.0,,,43.7301,-79.3935,6.0
+M6G,CA,Downtown Toronto (Christie),Ontario,ON,Toronto,8133394.0,,,43.6683,-79.4205,6.0
+M5M,CA,North York (Bedford Park / Lawrence Park West / Lawrence Manor East),Ontario,ON,,,,,43.7335,-79.4177,6.0
+M4C,CA,East York (Woodbine Heights),Ontario,ON,East York ,,,,43.6913,-79.3116,6.0
+M4K,CA,East Toronto (The Danforth West / Riverdale),Ontario,ON,Toronto,8133394.0,,,43.6803,-79.3538,6.0
+M2R,CA,Willowdale West,Ontario,ON,Willowdale,,,,43.7786,-79.445,6.0
+M5T,CA,Downtown Toronto (Kensington Market / Chinatown / Grange Park),Ontario,ON,Toronto,8133394.0,,,43.6541,-79.3978,6.0
+M6K,CA,West Toronto (Brockton / Parkdale Village / Exhibition Place),Ontario,ON,Toronto,8133394.0,,,43.6383,-79.4301,6.0
+M4M,CA,East Toronto (Studio District),Ontario,ON,Toronto,8133394.0,,,43.6561,-79.3406,6.0
+M5A,CA,Toronto,Ontario,ON,Toronto,8133394.0,,,43.6555,-79.3626,6.0
+M4S,CA,Central Toronto (Davisville),Ontario,ON,Toronto,8133394.0,,,43.702,-79.3853,6.0
+M3H,CA,North York (Armour Heights / Wilson Heights / Downsview North),Ontario,ON,North York ,,,,43.7535,-79.4472,1.0
+M4R,CA,Central Toronto (North Toronto West),Ontario,ON,Toronto,8133394.0,,,43.7143,-79.4065,6.0
+M4L,CA,East Toronto (India Bazaar / The Beaches West),Ontario,ON,Toronto,8133394.0,,,43.6693,-79.3155,6.0
+M6S,CA,West Toronto (Bloor West Village / Swansea),Ontario,ON,Toronto,8133394.0,,,43.6512,-79.4828,6.0
+M6J,CA,West Toronto (Rua Aþores / Trinity),Ontario,ON,Toronto,8133394.0,,,43.648,-79.4177,6.0
+M1P,CA,Scarborough (Dorset Park / Wexford Heights / Scarborough Town Centre),Ontario,ON,Scarborough,,,,43.7612,-79.2707,6.0
+M6H,CA,West Toronto (Dufferin / Dovercourt Village),Ontario,ON,Toronto,8133394.0,,,43.6655,-79.4378,6.0
+M9M,CA,North York (Humberlea / Emery),Ontario,ON,North York ,,,,43.7366,-79.5401,6.0
+M9V,CA,Etobicoke (South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens),Ontario,ON,Etobicoke,,,,43.7432,-79.5876,6.0
+M9W,CA,Etobicoke Northwest (Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale),Ontario,ON,Etobicoke,,,,43.7144,-79.5909,6.0
+M1V4P1,,,,,,,,,,,
+M9A,CA,Etobicoke (Islington Avenue),Ontario,ON,Etobicoke,,,,43.6662,-79.5282,6.0
+M4X,CA,Downtown Toronto (St. James Town / Cabbagetown),Ontario,ON,Toronto,8133394.0,,,43.6684,-79.3689,6.0
+M3J,CA,North York (Northwood Park / York University),Ontario,ON,North York ,,,,43.7694,-79.4921,1.0
+M6L,CA,North York (North Park / Maple Leaf Park / Upwood Park),Ontario,ON,North York ,,,,43.7137,-79.4869,6.0
+M6M,CA,York (Del Ray / Keelsdale / Mount Dennis / Silverthorne),Ontario,ON,York,,,,43.6934,-79.4857,6.0
+M6N,CA,York (Runnymede / The Junction North),Ontario,ON,York,,,,43.6748,-79.4839,6.0
+M6C,CA,York (Cedarvale),Ontario,ON,York,,,,43.6915,-79.4307,6.0
+M6E,CA,York (Fairbank / Oakwood),Ontario,ON,York,,,,43.6889,-79.4507,6.0
+M3L,CA,Downsview West,Ontario,ON,Downsview,,,,43.7334,-79.5116,1.0
+M3K,CA,Downsview East (CFB Toronto),Ontario,ON,Toronto,8133394.0,,,43.739,-79.4692,1.0
+M2H,CA,North York (Hillcrest Village),Ontario,ON,North York ,,,,43.8015,-79.3577,6.0
+M1C,CA,Scarborough (Rouge Hill / Port Union / Highland Creek),Ontario,ON,Scarborough,,,,43.7878,-79.1564,6.0
+M1T,CA,Scarborough (Clarks Corners / Tam O'Shanter / Sullivan),Ontario,ON,Scarborough,,,,43.7812,-79.3036,6.0
+M3B,CA,Don Mills North,Ontario,ON,Don Mills ,,,,43.745,-79.359,4.0
+M1S,CA,Scarborough (Agincourt),Ontario,ON,Scarborough,,,,43.7946,-79.2644,6.0
+M1H,CA,Scarborough (Cedarbrae),Ontario,ON,Scarborough,,,,43.7686,-79.2389,6.0
+M3N,CA,North York (Jane and Finch),Ontario,ON,North York ,,,,43.7568,-79.521,1.0
+M1G,CA,Scarborough (Woburn),Ontario,ON,Scarborough,,,,43.7712,-79.2144,6.0
+M3C,CA,Don Mills South (Flemingdon Park),Ontario,ON,Don Mills ,,,,43.7334,-79.3329,1.0
+M1B,CA,Scarborough (Malvern / Rouge River),Ontario,ON,Scarborough,,,,43.8113,-79.193,6.0
+M1R,CA,Scarborough (Wexford / Maryvale),Ontario,ON,Scarborough,,,,43.7507,-79.3003,6.0
+M1E,CA,Scarborough (Guildwood / Morningside / Ellesmere),Ontario,ON,Scarborough,,,,43.7678,-79.1866,6.0
+M6B,CA,North York (Glencairn),Ontario,ON,North York ,,,,43.7081,-79.4479,6.0
+M2M,CA,Willowdale East (Newtonbrook),Ontario,ON,Willowdale,,,,43.7915,-79.4103,6.0
+M6A,CA,North York (Lawrence Manor / Lawrence Heights),Ontario,ON,North York ,,,,43.7223,-79.4504,6.0
+M2N,CA,Willowdale South,Ontario,ON,Willowdale,,,,43.7673,-79.4111,6.0
+M4G,CA,East York (Leaside),Ontario,ON,East York ,,,,43.7124,-79.3644,6.0
+M1K,CA,Scarborough (Kennedy Park / Ionview / East Birchmount Park),Ontario,ON,Scarborough,,,,43.7298,-79.2639,6.0
+M2J,CA,North York (Fairview / Henry Farm / Oriole),Ontario,ON,North York ,,,,43.7801,-79.3479,6.0
+M1L,CA,Scarborough (The Golden Mile / Clairlea / Oakridge / Birchmount Park East),Ontario,ON,Scarborough,,,,43.7122,-79.2843,6.0
+M1M,CA,Scarborough (Cliffside / Cliffcrest / Scarborough Village West),Ontario,ON,Scarborough,,,,43.7247,-79.2312,6.0
+M3M,CA,Downsview Central,Ontario,ON,Downsview,,,,43.7319,-79.4928,1.0
+M1V5E9,,,,,,,,,,,
+M8Z,CA,Etobicoke (Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West),Ontario,ON,Etobicoke,,,,43.6256,-79.5231,6.0
+M8W,CA,Etobicoke (Alderwood / Long Branch),Ontario,ON,Etobicoke,,,,43.6021,-79.5402,6.0
+M8X,CA,Etobicoke (The Kingsway / Montgomery Road / Old Mill North),Ontario,ON,Etobicoke,,,,43.6518,-79.5076,6.0
+M9C,CA,Etobicoke (Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Woods),Ontario,ON,Etobicoke,,,,43.6437,-79.5767,6.0
+M8V,CA,Etobicoke (New Toronto / Mimico South / Humber Bay Shores),Ontario,ON,Toronto,8133394.0,,,43.6075,-79.5013,6.0
+M4H,CA,East York (Thorncliffe Park),Ontario,ON,East York ,,,,43.7059,-79.3464,6.0
+M4A,CA,North York (Sweeney Park / Wigmore Park),Ontario,ON,,,,,43.7276,-79.3148,6.0
+M9P,CA,Etobicoke (Westmount),Ontario,ON,Etobicoke,,,,43.6949,-79.5323,6.0
+M9B,CA,Etobicoke (West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale),Ontario,ON,Etobicoke,,,,43.6505,-79.5517,6.0
+M9R,CA,Etobicoke (Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens),Ontario,ON,Etobicoke,,,,43.6898,-79.5582,6.0
+M8Y,CA,Etobicoke (Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East),Ontario,ON,Etobicoke,,,,43.6325,-79.4939,6.0
+L6T,CA,Brampton East,Ontario,ON,Brampton,,,,43.7196,-79.6854,1.0
+M5V,CA,Downtown Toronto (CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / YTZ),Ontario,ON,Toronto,8133394.0,,,43.6404,-79.3995,6.0
+M5P,CA,Central Toronto (Forest Hill North & West),Ontario,ON,Toronto,8133394.0,,,43.6966,-79.412,6.0
+M5N,CA,Central Toronto (Roselawn),Ontario,ON,Toronto,8133394.0,,,43.7113,-79.4195,6.0
+M9P3J3,,,,,,,,,,,
